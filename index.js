@@ -1,3 +1,7 @@
-var kittens = [] //define your array here
+var kittens = ['Milo', 'Otis','Garfield'];
 
-// Add your functions and code here
+function appendKitten(name){
+  var newArray= kitten.slice();
+  newArray.push(name)
+  return newAray
+}
