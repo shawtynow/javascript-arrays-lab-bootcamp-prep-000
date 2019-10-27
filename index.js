@@ -1,6 +1,6 @@
 var kittens = ['Milo', 'Otis','Garfield'];
 
-function appendKitten(name){
+function appendKitten(Ralp){
 kittens.slice(0);
 kittens.push();
 var clone=kittens.slice(0);
