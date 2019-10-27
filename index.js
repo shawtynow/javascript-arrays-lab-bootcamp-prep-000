@@ -1,7 +1,8 @@
 var kittens = ['Milo', 'Otis','Garfield'];
 
 function appendKitten(name){
-  var newArray= kitten.slice();
-  newArray.push(name);
-  return newAray
+kittens.slice(0);
+kittens.push();
+var clone=kittens.slice(0);
+  return clone
 }
